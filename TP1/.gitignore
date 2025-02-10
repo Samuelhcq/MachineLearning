@@ -1,3 +1,4 @@
 TD*
-/.ipynb*
-TP*/.ipynb*
+.ipynb_checkpoints/
+TP*/.ipynb_checkpoints/
+
